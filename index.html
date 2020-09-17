@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<title>Expo</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="css/uikit.min.css">
+	<link rel="stylesheet" type="text/css" href="css/slick.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/media.css">
+</head>
+<body>
+<div id="offcanvas-nav-primary" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+    	<button class="uk-offcanvas-close" type="button" uk-close></button>
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+        	<li>
+            	<a href="#advantages" uk-scroll>Преимущества</a>
+            </li>
+            <li>
+            	<a href="#portfolio" uk-scroll>Портфолио</a>
+            </li>
+            <li>
+                <a href="#extra" uk-scroll>Дополнительные услуги</a>
+            </li>
+            <li>
+                <a href="#etap" uk-scroll>Этапы работы</a>
+            </li>
+            <li>
+                <a href="#clients" uk-scroll>Клиенты</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<header>
+	<div class="uk-container">
+		<div class="header_top">
+			<div class="uk-child-width-auto uk-flex-between uk-grid-small" uk-grid>
+			    <div>
+			    	<div class="logo">
+			    		<img src="img/logo.png" alt="">
+			    	</div>
+			    </div>
+			    <div>
+			    	<div class="header_right">
+			    		<a href="tel: +7 (916) 579-14-30" class="header_head_info_call">
+							+7 (916) 579-14-30
+						</a>
+			    		<a class="menu_btn" uk-toggle="target: #offcanvas-nav-primary">
+				    		<img src="img/menu.png" alt="">
+				    	</a>
+			    	</div>
+			    </div>
+			</div>
+		</div>
+		<div class="header_main">
+			<div class="header_main_top">
+				<p class="header_headline_p2">
+					МЫ СОЗДАЕМ 
+				</p>
+				<p class="header_headline_p1">
+					ВЫСТАВОЧНЫЕ СТЕНДЫ
+				</p>
+				<p class="header_headline_p2">
+					ПО ЦЕНЕ ОТ 17 000 руб за м2
+				</p>
+			</div>
+			<div class="uk-grid-small uk-flex-between uk-grid-medium" uk-grid>
+				<div class="uk-width-auto@l uk-width-1-2@s">
+					<div class="header_left_img">
+						<img src="img/stand.png" alt="">
+					</div>
+				</div>
+				<div class="uk-width-expand@l uk-width-1-2@s">
+					<div class="header_right_info">
+						<p>
+							«KF-Expo» – Мы это команда профессионалов, посвятивших себя строительству эксклюзивных выставочных стендов. <br>
+							Наши интересы - это интересы наших клиентов, что позволяет сделать сотрудничество действительно лучшим на рынке. <br>
+							Заказав выставочный стенд у нас - вы можете быть уверенны мы создадим действительно незабываемый стенд, который выгодно отличит вас от конкурентов 
+						</p>
+						<p>
+							Мы осуществляем работу под ключ, начиная от разработки дизайн-проекта,  до монтажа стенда на самых различных мероприятиях. Мы помогаем нашим артнерам сделать успешную презентацию и точно попасть в свою свою целевую аудиторию.
+						</p>
+						<div class="uk-text-center">
+							<a class="arrow" href="#advantages" uk-scroll></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</header>
+
+
+<section class="advantages" id="advantages">
+	<div class="uk-container">
+		<div class="headline">
+			<p class="headline_p1">
+				ПРЕИМУЩЕСТВА РАБОТЫ С НАМИ
+			</p>
+			<div class="headline_line"></div>
+		</div>
+		<div class="uk-grid-small uk-child-width-1-5@m uk-child-width-1-3@s uk-child-width-auto uk-flex-center" uk-grid>
+			<div>
+				<div class="advantages_item_hover" uk-toggle="target: .advantages_item1 .advantages_item_p; mode: hover; animation: uk-animation-fade;">
+					<div class="advantages_item advantages_item1">
+						<p class="advantages_item_p">
+							СОБСТВЕННОЕ <br>
+							ПРОИЗВОДСТВО
+						</p>
+						<p class="advantages_item_p" hidden>
+							800м2
+						</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="advantages_item_hover2" uk-toggle="target: .advantages_item2 .advantages_item_p; mode: hover; animation: uk-animation-fade;">
+					<div class="advantages_item advantages_item2">
+						<p class="advantages_item_p">
+							263 года
+						</p>
+						<p class="advantages_item_p" hidden>
+							наш суммарный <br> опыт в сфере
+						</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="advantages_item_hover3" uk-toggle="target: .advantages_item3 .advantages_item_p; mode: hover; animation: uk-animation-fade;">
+					<div class="advantages_item advantages_item3">
+						<p class="advantages_item_p">
+							высокое кач-во <br> застройки
+						</p>
+						<p class="advantages_item_p" hidden>
+							и всегда вовремя
+						</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="advantages_item_hover4" uk-toggle="target: .advantages_item4 .advantages_item_p; mode: hover; animation: uk-animation-fade;">
+					<div class="advantages_item advantages_item4">
+						<p class="advantages_item_p">
+							уникальный <br> дизайн
+						</p>
+						<p class="advantages_item_p" hidden>
+							отстройка <br> от конкурентов
+						</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="advantages_item_hover5" uk-toggle="target: .advantages_item5 .advantages_item_p; mode: hover; animation: uk-animation-fade;">
+					<div class="advantages_item advantages_item5">
+						<p class="advantages_item_p">
+							наши цены
+						</p>
+						<p class="advantages_item_p" hidden>
+							от 17 000 руб. <br>
+							за м2
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="portfolio" id="portfolio">
+	<div class="uk-container">
+		<div class="headline">
+			<p class="headline_p1">
+				НАШЕ ПОРТФОЛИО
+			</p>
+			<div class="headline_line"></div>
+		</div>
+		<div class="portfolio_block">
+			<div class="uk-grid-medium uk-grid-match" uk-grid>
+				<div class="portfolio_block_left">	
+					<div class="slider slider-nav">
+
+
+					    <!--1--><div>
+			            	<img  data-src="img/1-melnica/4.jpg" alt="" uk-cover uk-img="target: !.slider-nav">
+
+							<div class="small-nav-descriptor">
+								студия "Мельница"
+							</div>
+			            </div>
+
+						<!--2--><div>
+							<img  data-src="img/2-altai/6.jpg" alt="" uk-cover uk-img="target: !.slider-nav">
+							<div class="small-nav-descriptor">
+								Алтайский край
+							</div>
+						</div>
+
+						<!--3--><div>
+							<img  data-src="img/3-radius/8.jpg" alt="" uk-cover uk-img="target: !.slider-nav">
+							<div class="small-nav-descriptor">
+								АО Радиус Автоматика
+							</div>
+						</div>
+
+						<!--4--><div>
+							<img  data-src="img/4-bina/5.jpg" alt="" uk-cover uk-img="target: !.slider-nav">
+							<div class="small-nav-descriptor">
+								Бина Групп
+							</div>
+						</div>
+
+						<!--5--><div>
+							<img  data-src="img/5-vagatek/4.jpg" alt="" uk-cover uk-img="target: !.slider-nav">
+							<div class="small-nav-descriptor">
+								Вагатек
+							</div>
+						</div>
+
+
+
+
+
+
+					 </div>
+				</div>
+				<div class="uk-width-expand">
+					<div class="slider slider-for">
+
+			            <!--1--><div>
+			            	<div class="portfolio_right_item">
+				    			<div class="uk-position-relative" uk-slideshow="animation: fade" >
+								    <ul class="uk-slideshow-items" uk-lightbox="animation: fade">
+								       
+								        <li>
+								        	<a href="img/1-melnica/1.jpg">
+								        		<img data-src="img/1-melnica/1.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+								        		<div class="portfolio_right_item_over">
+								        			<p>
+														«Студия анимационного кино «Мельница»
+									        		</p>
+								        		</div>
+								        	</a>
+								        </li>
+
+										<li>
+											<a href="img/1-melnica/2.jpg">
+												<img data-src="img/1-melnica/2.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														«Студия анимационного кино «Мельница»
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/1-melnica/3.jpg">
+												<img data-src="img/1-melnica/3.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														«Студия анимационного кино «Мельница»
+													</p>
+												</div>
+											</a>
+										</li>
+
+
+										<li>
+											<a href="img/1-melnica/4.jpg">
+												<img data-src="img/1-melnica/4.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														«Студия анимационного кино «Мельница»
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/1-melnica/5.jpg">
+												<img data-src="img/1-melnica/5.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														«Студия анимационного кино «Мельница»
+													</p>
+												</div>
+											</a>
+										</li>
+
+								    </ul>
+							        <ul class="uk-thumbnav uk-thumbnav_2 uk-child-width-1-4">
+							            
+							           	<li uk-slideshow-item="0"><a href="#"><img data-src="img/1-melnica/1.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+							           	<li uk-slideshow-item="1"><a href="#"><img data-src="img/1-melnica/2.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+							           	<li uk-slideshow-item="2"><a href="#"><img data-src="img/1-melnica/3.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+							           	<li uk-slideshow-item="3"><a href="#"><img data-src="img/1-melnica/4.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+							           	<li uk-slideshow-item="4"><a href="#"><img data-src="img/1-melnica/5.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+							        </ul>
+								</div>
+				    		</div>
+			            </div>
+						<!--2--><div>
+							<div class="portfolio_right_item">
+								<div class="uk-position-relative" uk-slideshow="animation: fade" >
+									<ul class="uk-slideshow-items" uk-lightbox="animation: fade">
+
+										<li>
+											<a href="img/2-altai/1.jpg">
+												<img data-src="img/2-altai/1.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/2-altai/2.jpg">
+												<img data-src="img/2-altai/2.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/2-altai/3.jpg">
+												<img data-src="img/2-altai/3.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/2-altai/4.jpg">
+												<img data-src="img/2-altai/4.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/2-altai/5.jpg">
+												<img data-src="img/2-altai/5.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/2-altai/6.jpg">
+												<img data-src="img/2-altai/6.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Алтайский край. «PRO//Движение.Экспо 2019». 40 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+									</ul>
+									<ul class="uk-thumbnav uk-thumbnav_2 uk-child-width-1-4">
+
+										<li uk-slideshow-item="0"><a href="#"><img data-src="img/2-altai/1.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="1"><a href="#"><img data-src="img/2-altai/2.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="2"><a href="#"><img data-src="img/2-altai/3.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="3"><a href="#"><img data-src="img/2-altai/4.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="4"><a href="#"><img data-src="img/2-altai/5.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="5"><a href="#"><img data-src="img/2-altai/6.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!--3--><div>
+							<div class="portfolio_right_item">
+								<div class="uk-position-relative" uk-slideshow="animation: fade" >
+									<ul class="uk-slideshow-items" uk-lightbox="animation: fade">
+
+										<li>
+											<a href="img/3-radius/1.jpg">
+												<img data-src="img/3-radius/1.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/3-radius/2.jpg">
+												<img data-src="img/3-radius/2.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/3-radius/3.jpg">
+												<img data-src="img/3-radius/3.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/3-radius/4.jpg">
+												<img data-src="img/3-radius/4.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/3-radius/5.jpg">
+												<img data-src="img/3-radius/5.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/3-radius/6.jpg">
+												<img data-src="img/3-radius/6.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/3-radius/7.jpg">
+												<img data-src="img/3-radius/7.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/3-radius/8.jpg">
+												<img data-src="img/3-radius/8.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														АО Радиус Автоматика. «Международный Форум Электрические сети 2018». 63 кв.м. 2 этажа.
+													</p>
+												</div>
+											</a>
+										</li>
+									</ul>
+									<ul class="uk-thumbnav uk-thumbnav_2 uk-child-width-1-4">
+
+										<li uk-slideshow-item="0"><a href="#"><img data-src="img/3-radius/1.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="1"><a href="#"><img data-src="img/3-radius/2.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="2"><a href="#"><img data-src="img/3-radius/3.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="3"><a href="#"><img data-src="img/3-radius/4.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="4"><a href="#"><img data-src="img/3-radius/5.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="5"><a href="#"><img data-src="img/3-radius/6.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="6"><a href="#"><img data-src="img/3-radius/7.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="7"><a href="#"><img data-src="img/3-radius/8.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!--4--><div>
+							<div class="portfolio_right_item">
+								<div class="uk-position-relative" uk-slideshow="animation: fade" >
+									<ul class="uk-slideshow-items" uk-lightbox="animation: fade">
+
+										<li>
+											<a href="img/4-bina/1.jpg">
+												<img data-src="img/4-bina/1.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/4-bina/2.jpg">
+												<img data-src="img/4-bina/2.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/4-bina/3.jpg">
+												<img data-src="img/4-bina/3.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/4-bina/4.jpg">
+												<img data-src="img/4-bina/4.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+										<li>
+											<a href="img/4-bina/5.jpg">
+												<img data-src="img/4-bina/5.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+
+
+									</ul>
+									<ul class="uk-thumbnav uk-thumbnav_2 uk-child-width-1-4">
+
+										<li uk-slideshow-item="0"><a href="#"><img data-src="img/4-bina/1.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="1"><a href="#"><img data-src="img/4-bina/2.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="2"><a href="#"><img data-src="img/4-bina/3.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="3"><a href="#"><img data-src="img/4-bina/4.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="4"><a href="#"><img data-src="img/4-bina/5.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!--5--><div>
+							<div class="portfolio_right_item">
+								<div class="uk-position-relative" uk-slideshow="animation: fade" >
+									<ul class="uk-slideshow-items" uk-lightbox="animation: fade">
+
+										<li>
+											<a href="img/5-vagatek/1.jpg">
+												<img data-src="img/5-vagatek/1.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/5-vagatek/2.jpg">
+												<img data-src="img/5-vagatek/2.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/5-vagatek/3.jpg">
+												<img data-src="img/5-vagatek/3.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+										<li>
+											<a href="img/5-vagatek/4.jpg">
+												<img data-src="img/5-vagatek/4.jpg" alt="" uk-cover uk-img="target: !.uk-slideshow-items">
+												<div class="portfolio_right_item_over">
+													<p>
+														Бина Групп. «Интеракокраска 2019». 36 кв.м.
+													</p>
+												</div>
+											</a>
+										</li>
+
+
+
+
+									</ul>
+									<ul class="uk-thumbnav uk-thumbnav_2 uk-child-width-1-4">
+
+										<li uk-slideshow-item="0"><a href="#"><img data-src="img/5-vagatek/1.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="1"><a href="#"><img data-src="img/5-vagatek/2.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="2"><a href="#"><img data-src="img/5-vagatek/3.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+										<li uk-slideshow-item="3"><a href="#"><img data-src="img/5-vagatek/4.jpg"  uk-img="target: !.uk-thumbnav" alt="" uk-cover></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+			        </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="extra" id="extra">
+	<div class="uk-container">
+		<div class="headline">
+			<p class="headline_p1">
+				ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ
+			</p>
+			<div class="headline_line"></div>
+		</div>
+		<div class="extra_block">
+			<div class="uk-flex-center uk-child-width-1-2@s" uk-grid>
+				<div>
+					<div class="extra_item">
+						<p>НАРУЖНАЯ РЕКЛАМА</p>
+					</div>
+				</div>
+				<div>
+					<div class="extra_item">
+						<p>МУЛЬТИМЕДИЙНЫЕ РЕШЕНИЯ</p>
+					</div>
+				</div>
+				<div>
+					<div class="extra_item2">
+						<p>оформление торговых площадей</p>
+					</div>
+				</div>	
+				<div>
+					<div class="extra_item2">
+						<p>оформление музейных экспозиций</p>
+					</div>
+				</div>	
+				<div>
+					<div class="extra_item">
+						<p>АРЕНДА МЕБЕЛИ</p>
+					</div>
+				</div>		
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="order" id="order">
+	<div class="uk-container">
+		<div class="order_block">
+			<div class="quest_form">
+				<p class="footer_form_p">
+					Хотели бы больше узнать о нашей работе и ПОЛУЧИТЬ 2 3D-проекта <b>БЕСПЛАТНО?</b>
+				</p>
+				<form action="#" class="formsubmit2">
+					<div class="quest_form_grid uk-grid-medium uk-grid uk-flex-center" uk-grid>
+						<div class="quest_form_div uk-width-1-3@s">
+							<div class="quest_form_div_man uk-position-relative">
+								<input type="text" class="uk-input input_name" name="uname" placeholder="Ваше имя" required="">
+							</div>
+							
+						</div>
+						<div class="quest_form_div uk-width-1-3@s uk-grid-margin">
+							<div class="quest_form_div_tell uk-position-relative">
+								<input class="uk-input phone_input" type="tel" name="uphone" placeholder="Ваш номер" required="">
+							</div>
+	    				</div>
+						<div class="btn_cont uk-grid-margin ">
+							<button href="#" class="btn_call btn_popup">
+								ЗАКАЗАТЬ ЗВОНОК
+							</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="etap" id="etap">
+	<div class="uk-container">
+		<div class="headline">
+			<p class="headline_p1">
+				ЭТАПЫ РАБОТЫ
+			</p>
+			<div class="headline_line"></div>
+		</div>
+		<div class="etap_block">
+			<div class="uk-flex-center uk-child-width-1-3@m uk-child-width-1-2@s uk-grid-small" uk-grid>
+				<div>
+					<div class="etap_item">
+						<span class="etap_item_number">
+							1
+						</span>
+						<span class="etap_item_text">
+							Заполнение <br>
+							и согласование ТЗ
+						</span>
+					</div>
+				</div>	
+				<div>
+					<div class="etap_item etap_item2">
+						<span class="etap_item_number">
+							2
+						</span>
+						<span class="etap_item_text">
+							 Создание 3D-макета
+						</span>
+					</div>
+				</div>
+				<div>
+					<div class="etap_item etap_item3">
+						<span class="etap_item_number">
+							3
+						</span>
+						<span class="etap_item_text">
+							Финальные <br>
+							корректировки
+						</span>
+					</div>
+				</div>
+				<div>
+					<div class="etap_item etap_item4">
+						<span class="etap_item_number">
+							4
+						</span>
+						<span class="etap_item_text">
+							 Разработка <br>
+							чертежей и <br>
+							подготовка
+						</span>
+					</div>
+				</div>
+				<div>
+					<div class="etap_item etap_item5">
+						<span class="etap_item_number">
+							5
+						</span>
+						<span class="etap_item_text">
+							Монтаж и <br>
+							строительство <br>
+							стенда 
+						</span>
+					</div>
+				</div>
+				<div>
+					<div class="etap_item etap_item6">
+						<span class="etap_item_number">
+							6
+						</span>
+						<span class="etap_item_text">
+							Сопровождение <br>
+							в течение выставки
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="clients" id="clients">
+	<div class="uk-container">
+		<div class="headline">
+			<p class="headline_p1">
+				СЛОВО НАШИМ КЛИЕНТАМ
+			</p>
+			<div class="headline_line"></div>
+		</div>
+		<div class="clients_block">
+			<div class="uk-grid-medium uk-child-width-1-3@s" uk-grid>
+				<div>
+					<a href="pdf/pdf1.pdf" target="_blank" class="clients_item">
+						<img src="img/cl1.png" alt="">
+					</a>
+				</div>
+				<div>
+					<a href="pdf/pdf2.pdf" target="_blank" class="clients_item">
+						<img src="img/cl2.png" alt="">
+					</a>
+				</div>
+				<div>
+					<a href="pdf/pdf3.pdf" target="_blank" class="clients_item">
+						<img src="img/cl3.png" alt="">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<footer>
+	<div class="uk-container">
+		<div class="uk-grid-small" uk-grid>
+			<div class="uk-width-2-5@s uk-width-1-1">
+				<div class="footer_left">
+					<div class="headline">
+						<p class="headline_p1">
+							Контакты
+						</p>
+						<div class="headline_line"></div>
+					</div>
+					<div class="footer_left_bottom_item">
+						<span>АДРЕС:</span>
+						<a>
+							Московская область, г. Щербинка, Бутовский тупик, дом 1
+						</a>
+					</div>
+					<div class="footer_left_bottom_item">
+						<span>ТЕЛЕФОН:</span>
+						<a href="tel: +7 (916) 579-14-30">
+							+7 (916) 579-14-30,
+						</a>
+						<a href="tel: +7(916) 099-79-79">
+							+7 (916) 099-79-79
+						</a>
+					</div>
+					<div class="footer_left_bottom_item">
+						<span>E-MAIL:</span>
+						<a href="" target="mail to:  Info@kf-expo.ru">
+							 Info@kf-expo.ru
+						</a>
+					</div>
+				</div>	
+			</div>
+			<div class="uk-width-3-5@s uk-width-1-1">
+				<div class="footer_right">
+					<div class="quest_form">
+						<form action="#" class="formsubmit2">
+							<div class="quest_form_grid uk-grid-medium uk-grid uk-flex-center" uk-grid="" style="">
+								<div class="quest_form_div uk-width-1-2@s">
+									<input type="text" class="uk-input input_name" name="uname" placeholder="Ваше имя:" required="">
+								</div>
+								<div class="quest_form_div uk-width-1-2@s uk-grid-margin">
+									<input type="email" class="uk-input input_email" name="uemail" placeholder="Ваш Email:" required="">
+								</div>
+								<div class="quest_form_div uk-width-1-1@s uk-grid-margin">
+			    					<input class="uk-input phone_input" type="tel" name="uphone" placeholder="Ваш Телефон:" required="">
+			    				</div>
+			    				<div class="quest_form_div uk-width-1-1@s uk-grid-margin">
+			    					<textarea class="uk-textarea" name="utextarea" rows="6" placeholder="Комментарий:" ></textarea>
+			    				</div>
+								<div class="btn_cont uk-grid-margin uk-width-1-1">
+									<button href="#" class="btn_call btn_popup">
+										ОТПРАВИТЬ
+									</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_map">
+			<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ac12e52cf1daf307eaa0a603b323e56287ab722567df35d28253e8c0552f413c3&amp;source=constructor" width="100%" height="100%" frameborder="0"></iframe>
+		</div>			
+	</div>
+</footer>
+
+
+
+<div class="success uk-flex-top" uk-modal id="success">
+	<div class="uk-modal-dialog uk-modal-body modal_success uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="modal_success_block">
+		  	<span>Спасибо!</span>
+		  	<p class="success_text">Менеджер свяжется с Вами в ближайшее время</p>
+	  	</div>
+	 </div>
+</div>
+
+
+<div class="success uk-flex-top" uk-modal id="success2">
+	<div class="uk-modal-dialog uk-modal-body modal_success uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="modal_success_block">
+		  	<span>Спасибо!</span>
+		  	<p class="success_text">В ближайшее время информация будет отправлена на Ваш E-mail</p>
+	  	</div>
+	 </div>
+</div>
+
+
+<div id="cal_modal" class="uk-flex-top uk-modal popuplogin2" uk-modal="">
+	<div class="popup mfp-hide uk-modal-dialog uk-margin-auto-vertical" id="">
+		  <button class="uk-modal-close-default uk-close uk-icon" uk-close=""></button>
+		<div class="popup-inner">
+		  <div class="header_form">
+			
+			<form uk-grid class="uk-flex-around uk-flex-center formsubmit1" action="" uk-scrollspy="target: > *; cls: uk-animation-slide-top-small; delay: 200; repeat: true">
+				<p class="header_form_head">
+					Оставьте контактные данные <br>
+					и менеджер перезвонит Вам
+				</p>
+				<div class="header_form_input uk-width-1-1">
+					<input class="uk-input input_name" type="text" name="uname" placeholder="Имя" required="">
+				</div>
+				<div class="header_form_input uk-width-1-1 uk-width-1-1">
+					<input class="uk-input phone_input" type="tel" name="uphone" placeholder="Телефон" required="" >
+				</div>
+				<div class="header_form_polit uk-grid-margin">
+					<p>
+				      <input autocomplete="off" type="checkbox" name="checkme" class="agree">
+				      <span>Cогласен с&nbsp;</span> <a href="#modal-politic" uk-toggle> политикой конфиденциальности</a>
+				  </p>
+				</div>
+				<div class="uk-width-1-1 uk-padding-remove btn_cont">
+					<button class="uk-button continue">
+						ЗАКАЗАТЬ ЗВОНОК
+					</button>
+				</div>
+				<p class="header_form_p2">
+					Либо позвоните нам сами
+					<br>
+					<a href="tel: +7 (812) 949-65-76">+ 7 (812) 949-65-76</a>
+				</p>
+			</form>
+		  </div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/uikit.min.js"></script>
+	<script type="text/javascript" src="js/jquery.maskedinput.min.js"></script>
+	<script type="text/javascript" src="js/uikit-icons.min.js"></script>
+	<script type="text/javascript" src="js/slick.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+
+</body>
+</html>
+
+
+
+
