@@ -1338,10 +1338,27 @@ button.mfp-close {
 
 }
 .hidden-extra-content {
-    max-width: 600px;
+    max-width: 900px;
 }
 .hidden-extra-content-title {
     font-weight: 700;
     padding-bottom: 10px;
     text-transform: uppercase;
+}
+.gallery-z a  {
+    display: block;
+    margin: 10px auto;
+}
+.gallery-z {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.gallery-z-image {
+    width: 100%;
+    min-width: 320px;
+    height: 320px;
+    background-position: center center;
+    background-size: cover;
 }
