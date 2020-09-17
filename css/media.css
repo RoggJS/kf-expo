@@ -29,6 +29,17 @@ background-size: contain;
   background: url(../img/preim5.png) no-repeat center center;
 background-size: contain;
 }
+
+	.feedback-slider-new .slick-prev {
+		left: 0;
+
+
+	}
+	.feedback-slider-new .slick-next {
+		right: 0;
+
+	}
+
 }
 @media screen and (max-width: 1070px) {
 .extra_item p {
@@ -137,8 +148,16 @@ header .quest_form_grid {
 }
 
 }
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 760px) {
+	.feedback-slider-new a {
+		display: block;
+		margin: 20px auto;
 
+	}
+
+	.gallery-card {
+		margin: 5px auto 5px
+	}
 }
 @media screen and (max-width: 721px) {
 
