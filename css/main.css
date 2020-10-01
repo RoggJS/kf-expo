@@ -1335,7 +1335,12 @@ button.mfp-close {
 }
 .show-popup-button {
     cursor: pointer;
-
+    transition: all ease-in .2s;
+}
+.show-popup-button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all ease-in .2s;
 }
 .hidden-extra-content {
     max-width: 900px;
@@ -1361,4 +1366,16 @@ button.mfp-close {
     height: 320px;
     background-position: center center;
     background-size: cover;
+}
+.hidden-extra-content {
+    border-radius: 8px;
+    border: 1px solid #00b7ac;
+    display: block;
+    overflow: hidden;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,183,172,1) 100%);
+}
+.fancybox-button svg {
+
+    color: #fff;
 }
