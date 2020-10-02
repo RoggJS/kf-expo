@@ -1373,7 +1373,7 @@ button.mfp-close {
     display: block;
     overflow: hidden;
     background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,183,172,1) 100%);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 63%, rgba(186,255,251,1) 100%);
 }
 .fancybox-button svg {
 
