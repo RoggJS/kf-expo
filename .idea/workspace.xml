@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42b025e5-c269-48b4-9768-d5b9daf464ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/16-ekspert/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/16-ekspert/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/16-ekspert/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/16-ekspert/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/16-ekspert/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="42b025e5-c269-48b4-9768-d5b9daf464ce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +13,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="1921" column="24" selection-start-line="1921" selection-start-column="24" selection-end-line="1921" selection-end-column="24" />
+            <state relative-caret-position="259">
+              <caret line="2025" column="110" selection-start-line="2025" selection-start-column="110" selection-end-line="2025" selection-end-column="110" />
+              <caret line="2026" column="110" selection-start-line="2026" selection-start-column="110" selection-end-line="2026" selection-end-column="110" />
+              <caret line="2027" column="110" selection-start-line="2027" selection-start-column="110" selection-end-line="2027" selection-end-column="110" />
+              <caret line="2028" column="110" selection-start-line="2028" selection-start-column="110" selection-end-line="2028" selection-end-column="110" />
+              <caret line="2029" column="110" selection-start-line="2029" selection-start-column="110" selection-end-line="2029" selection-end-column="110" />
+              <caret line="2030" column="110" selection-start-line="2030" selection-start-column="110" selection-end-line="2030" selection-end-column="110" />
+              <caret line="2031" column="110" selection-start-line="2031" selection-start-column="110" selection-end-line="2031" selection-end-column="110" />
+              <caret line="2032" column="110" selection-start-line="2032" selection-start-column="110" selection-end-line="2032" selection-end-column="110" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -40,7 +32,6 @@
                 <element signature="n#div#11;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#21;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -198,7 +189,7 @@
       <workItem from="1600315899877" duration="36217000" />
       <workItem from="1601274591443" duration="44000" />
       <workItem from="1601562131893" duration="2328000" />
-      <workItem from="1601617723892" duration="346000" />
+      <workItem from="1601617723892" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1600326885430</created>
@@ -211,7 +202,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38935000" />
+    <option name="totallyTimeSpent" value="39710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -230,7 +221,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.24593717" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.24593717" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.24593717" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -349,8 +340,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="1921" column="24" selection-start-line="1921" selection-start-column="24" selection-end-line="1921" selection-end-column="24" />
+        <state relative-caret-position="259">
+          <caret line="2025" column="110" selection-start-line="2025" selection-start-column="110" selection-end-line="2025" selection-end-column="110" />
+          <caret line="2026" column="110" selection-start-line="2026" selection-start-column="110" selection-end-line="2026" selection-end-column="110" />
+          <caret line="2027" column="110" selection-start-line="2027" selection-start-column="110" selection-end-line="2027" selection-end-column="110" />
+          <caret line="2028" column="110" selection-start-line="2028" selection-start-column="110" selection-end-line="2028" selection-end-column="110" />
+          <caret line="2029" column="110" selection-start-line="2029" selection-start-column="110" selection-end-line="2029" selection-end-column="110" />
+          <caret line="2030" column="110" selection-start-line="2030" selection-start-column="110" selection-end-line="2030" selection-end-column="110" />
+          <caret line="2031" column="110" selection-start-line="2031" selection-start-column="110" selection-end-line="2031" selection-end-column="110" />
+          <caret line="2032" column="110" selection-start-line="2032" selection-start-column="110" selection-end-line="2032" selection-end-column="110" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -361,7 +359,6 @@
             <element signature="n#div#11;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#21;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
