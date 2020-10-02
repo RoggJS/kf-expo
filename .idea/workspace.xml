@@ -3,9 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="42b025e5-c269-48b4-9768-d5b9daf464ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/12-nais/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/12-nais/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/12-nais/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/12-nais/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16-ekspert/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16-ekspert/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16-ekspert/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16-ekspert/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16-ekspert/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16-ekspert/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17-sev-metall/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17-sev-metall/7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="3144" column="37" selection-start-line="3144" selection-start-column="37" selection-end-line="3144" selection-end-column="37" />
+            <state relative-caret-position="280">
+              <caret line="1921" column="24" selection-start-line="1921" selection-start-column="24" selection-end-line="1921" selection-end-column="24" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -32,7 +41,6 @@
                 <element signature="n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#16;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#21;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -70,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="1341" column="20" selection-start-line="1341" selection-start-column="20" selection-end-line="1341" selection-end-column="20" />
+            <state relative-caret-position="200">
+              <caret line="1337" column="32" selection-start-line="1337" selection-start-column="32" selection-end-line="1337" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -100,6 +108,9 @@
       <find>img/12-nais/1.jpg</find>
       <find>show-popup-button</find>
       <find>ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ</find>
+      <find>/16-ekspert/1.jpg</find>
+      <find>/17</find>
+      <find>17-sev-metall</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,8 +126,8 @@
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -132,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +164,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +197,8 @@
       <updated>1600315898802</updated>
       <workItem from="1600315899877" duration="36217000" />
       <workItem from="1601274591443" duration="44000" />
-      <workItem from="1601562131893" duration="2125000" />
+      <workItem from="1601562131893" duration="2328000" />
+      <workItem from="1601617723892" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1600326885430</created>
@@ -199,13 +211,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38386000" />
+    <option name="totallyTimeSpent" value="38935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -291,13 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/DOWNLOADS/Chrome/app/css/styles.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="9445" selection-start-line="9445" selection-end-line="9475" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/DOWNLOADS/Chrome/app/css/styles.min.css" />
     <entry file="file://$PROJECT_DIR$/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -334,10 +340,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1337" column="32" selection-start-line="1337" selection-start-column="32" selection-end-line="1337" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="3144" column="37" selection-start-line="3144" selection-start-column="37" selection-end-line="3144" selection-end-column="37" />
+        <state relative-caret-position="280">
+          <caret line="1921" column="24" selection-start-line="1921" selection-start-column="24" selection-end-line="1921" selection-end-column="24" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -349,7 +362,6 @@
             <element signature="n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#16;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#21;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -383,13 +395,6 @@
             <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="1341" column="20" selection-start-line="1341" selection-start-column="20" selection-end-line="1341" selection-end-column="20" />
         </state>
       </provider>
     </entry>
