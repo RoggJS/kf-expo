@@ -14,14 +14,14 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
-              <caret line="2025" column="110" selection-start-line="2025" selection-start-column="110" selection-end-line="2025" selection-end-column="110" />
-              <caret line="2026" column="110" selection-start-line="2026" selection-start-column="110" selection-end-line="2026" selection-end-column="110" />
-              <caret line="2027" column="110" selection-start-line="2027" selection-start-column="110" selection-end-line="2027" selection-end-column="110" />
-              <caret line="2028" column="110" selection-start-line="2028" selection-start-column="110" selection-end-line="2028" selection-end-column="110" />
-              <caret line="2029" column="110" selection-start-line="2029" selection-start-column="110" selection-end-line="2029" selection-end-column="110" />
-              <caret line="2030" column="110" selection-start-line="2030" selection-start-column="110" selection-end-line="2030" selection-end-column="110" />
-              <caret line="2031" column="110" selection-start-line="2031" selection-start-column="110" selection-end-line="2031" selection-end-column="110" />
-              <caret line="2032" column="110" selection-start-line="2032" selection-start-column="110" selection-end-line="2032" selection-end-column="110" />
+              <caret line="2025" column="111" selection-start-line="2025" selection-start-column="111" selection-end-line="2025" selection-end-column="111" />
+              <caret line="2026" column="111" selection-start-line="2026" selection-start-column="111" selection-end-line="2026" selection-end-column="111" />
+              <caret line="2027" column="111" selection-start-line="2027" selection-start-column="111" selection-end-line="2027" selection-end-column="111" />
+              <caret line="2028" column="111" selection-start-line="2028" selection-start-column="111" selection-end-line="2028" selection-end-column="111" />
+              <caret line="2029" column="111" selection-start-line="2029" selection-start-column="111" selection-end-line="2029" selection-end-column="111" />
+              <caret line="2030" column="111" selection-start-line="2030" selection-start-column="111" selection-end-line="2030" selection-end-column="111" />
+              <caret line="2031" column="111" selection-start-line="2031" selection-start-column="111" selection-end-line="2031" selection-end-column="111" />
+              <caret line="2032" column="111" selection-start-line="2032" selection-start-column="111" selection-end-line="2032" selection-end-column="111" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -189,7 +189,7 @@
       <workItem from="1600315899877" duration="36217000" />
       <workItem from="1601274591443" duration="44000" />
       <workItem from="1601562131893" duration="2328000" />
-      <workItem from="1601617723892" duration="1121000" />
+      <workItem from="1601617723892" duration="1816000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1600326885430</created>
@@ -202,11 +202,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39710000" />
+    <option name="totallyTimeSpent" value="40405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -221,7 +220,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.24593717" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.24593717" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.24593717" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,14 +340,14 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
-          <caret line="2025" column="110" selection-start-line="2025" selection-start-column="110" selection-end-line="2025" selection-end-column="110" />
-          <caret line="2026" column="110" selection-start-line="2026" selection-start-column="110" selection-end-line="2026" selection-end-column="110" />
-          <caret line="2027" column="110" selection-start-line="2027" selection-start-column="110" selection-end-line="2027" selection-end-column="110" />
-          <caret line="2028" column="110" selection-start-line="2028" selection-start-column="110" selection-end-line="2028" selection-end-column="110" />
-          <caret line="2029" column="110" selection-start-line="2029" selection-start-column="110" selection-end-line="2029" selection-end-column="110" />
-          <caret line="2030" column="110" selection-start-line="2030" selection-start-column="110" selection-end-line="2030" selection-end-column="110" />
-          <caret line="2031" column="110" selection-start-line="2031" selection-start-column="110" selection-end-line="2031" selection-end-column="110" />
-          <caret line="2032" column="110" selection-start-line="2032" selection-start-column="110" selection-end-line="2032" selection-end-column="110" />
+          <caret line="2025" column="111" selection-start-line="2025" selection-start-column="111" selection-end-line="2025" selection-end-column="111" />
+          <caret line="2026" column="111" selection-start-line="2026" selection-start-column="111" selection-end-line="2026" selection-end-column="111" />
+          <caret line="2027" column="111" selection-start-line="2027" selection-start-column="111" selection-end-line="2027" selection-end-column="111" />
+          <caret line="2028" column="111" selection-start-line="2028" selection-start-column="111" selection-end-line="2028" selection-end-column="111" />
+          <caret line="2029" column="111" selection-start-line="2029" selection-start-column="111" selection-end-line="2029" selection-end-column="111" />
+          <caret line="2030" column="111" selection-start-line="2030" selection-start-column="111" selection-end-line="2030" selection-end-column="111" />
+          <caret line="2031" column="111" selection-start-line="2031" selection-start-column="111" selection-end-line="2031" selection-end-column="111" />
+          <caret line="2032" column="111" selection-start-line="2032" selection-start-column="111" selection-end-line="2032" selection-end-column="111" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
